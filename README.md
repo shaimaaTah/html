@@ -6,8 +6,8 @@
     I love nature, horses and food.<br>
      One of my future goals is to graduate from university with honors and have my own application.<br>
     </p>
-    <img  src="picture/drawing.jpg" alt="this is drawing" width="100" height="100"> 
-    <img  src="picture/food.jpg" alt="this is food" width="100" height="100">
-    <img  src="picture/hourse.jpg" alt="this is hourse" width="100" height="100">  
-    <img  src="picture/nature.jpg" alt="this is nature" width="100" height="100"> 
-    <img  src="picture/book.jpg" alt="this is book" width="100" height="100">  
+ <img  src="picture/drawing.jpg" alt="this is drawing" width="100" height="100"> 
+ <img  src="picture/food.jpg" alt="this is food" width="100" height="100">
+ <img  src="picture/hourse.jpg" alt="this is hourse" width="100" height="100">  
+ <img  src="picture/nature.jpg" alt="this is nature" width="100" height="100"> 
+ <img  src="picture/book.jpg" alt="this is book" width="100" height="100">  
